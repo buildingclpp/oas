@@ -63,3 +63,7 @@ RewriteRule ^(.*)$ index.php [QSA,L]
 เลขที่บัญชี 221-2-78341-5
 ชื่อบัญชี กรกฎ วิริยะ
 ```
+
+สามารถเข้าใช้งานได้โดย User
+ผู้ดูแลระบบ : admin@localhost + admin (เว็บไซต์ตัวอย่างเข้าระบบโดยบัญชี Facebook)
+พนักงาน : demo@localhost + demo
